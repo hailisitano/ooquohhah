@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahyaimahf.keifim.com/sitemap.xml
